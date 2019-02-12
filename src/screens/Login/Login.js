@@ -101,7 +101,7 @@ class Login extends Component {
                         </Button>
                         <br /><br />
                         <Typography variant="body2" >
-                            New to QuizCloud?
+                            New to CelluloidQuiz?
                         </Typography>
 
                         <Button className="formEle" variant="contained" color="secondary" onClick={showSignup}>
